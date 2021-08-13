@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-I’m Kyubeom han currently learning server programing 💻
+I’m Kyubeom han 
 
 MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
 
-<img src="https://img.shields.io/badge/JAVA-informational?style=flat-square&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-yellow?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mysql-blueviolet?style=flat-square&logo=mysql&logoColor=white"/>
+currently learning server programing 💻
+
+<div align="center"><h1>👊</h1></div>
+<div align="center"> <img src="https://img.shields.io/badge/JAVA-informational?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JS-yellow?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-blueviolet?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Python-gray?style=flat-square&logo=mysql&logoColor=white"/></div>
 
 
 <!--
