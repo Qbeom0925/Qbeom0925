@@ -8,13 +8,13 @@ currently learning server programing 💻
 
 <div align="center"><h1>👊</h1></div>
 <div align="center"> 
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=mysql&logoColor=white"/></div>
+  <!-- 자바  --><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> 
+  <!--  HTML --><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+  <!--  CSS --><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+  <!--  JS --><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>  
+  <!--  Python --><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=mysql&logoColor=white"/> 
+  <!--  DB --><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <!--  Oracle --><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=mysql&logoColor=white"/></div>
 
 
 <!--
