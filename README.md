@@ -14,8 +14,8 @@ MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
   <!--  DB --><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <!--  Oracle --><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
    <!--  Spring --><img src="https://img.shields.io/badge/Spring-67AA63?style=flat-square&logo=Spring&logoColor=white"/>
+  <br>
    <!--  Postman --><img src="https://img.shields.io/badge/Postman-fc5c34?style=flat-square&logo=Postman&logoColor=white"/>
-   <!--  AWS --><img src="https://img.shields.io/badge/AWS-fc5c34?style=flat-square&logo=AWS&logoColor=white"/>
 </div>
 <br>
 <div align="center"> 
