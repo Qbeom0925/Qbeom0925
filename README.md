@@ -22,7 +22,7 @@ MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
   <!--  IntelliJ --><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
   <!--  GitHub --><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <br>
-  <!--  Amazon_AWS --><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <!--  Amazon_AWS --><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon&logoColor=white"/>
   <!--  Postman --><img src="https://img.shields.io/badge/Postman-fc5c34?style=flat-square&logo=Postman&logoColor=white"/>
 </div>
 <br>
