@@ -1,3 +1,6 @@
+
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Qbeom0925%20&fontSize=90" />
+
 <h3>Just do debugger!! 🐞🐞</h3>
 
 I’m Kyubeom han 
