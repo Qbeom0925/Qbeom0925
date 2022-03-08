@@ -1,8 +1,6 @@
 
 <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=Just do debugger!!%20&fontSize=90" />
 
-<h3>Just do debugger!! 🐞🐞</h3>
-
 I’m Kyubeom han 
 
 MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
