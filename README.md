@@ -1,5 +1,5 @@
 
-<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=Just do de bug!!%20&fontSize=90" />
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=Just do debug!!%20&fontSize=90" />
 
 I’m Kyubeom han 
 
