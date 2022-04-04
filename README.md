@@ -3,8 +3,7 @@
 
 I’m Kyubeom han 
 
-MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓
-
+<!-- MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓-->
 <div align="center"><h1>👊</h1></div>
 <div align="center"> 
   <!-- 자바  --><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> 
