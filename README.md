@@ -28,7 +28,8 @@ I’m Kyubeom han
 <br>
 <div align="center"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qbeom0925&theme=nord&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qbeom0925&count_private=true&theme=nord&show_icons=true)
+
 </div>
 
 
