@@ -1,5 +1,5 @@
 
-<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=Just do debug!!%20&fontSize=90" />
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=Soft&color=303f5a&height=200&section=header&text=Just do debug!!%20&fontSize=90&fontColor=ffffff" />
 
 I’m Kyubeom han 
 
@@ -28,7 +28,7 @@ I’m Kyubeom han
 <br>
 <div align="center"> 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qbeom0925&count_private=true&theme=dark&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qbeom0925&count_private=true&theme=nord&show_icons=true)
 
 </div>
 
