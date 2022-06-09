@@ -24,11 +24,15 @@ I’m Kyubeom han
   <br>
   <!--  Amazon_AWS --><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
   <!--  Postman --><img src="https://img.shields.io/badge/Postman-fc5c34?style=flat-square&logo=Postman&logoColor=white"/>
+  <!--  Swagger --><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+  <br>
+  <!--  Docker --><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
 </div>
 <br>
 <div align="center"> 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qbeom0925&count_private=true&theme=nord&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qbeom0925&count_private=false&theme=nord&show_icons=true)
 
 </div>
 
