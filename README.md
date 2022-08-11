@@ -1,5 +1,6 @@
 
-<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=Soft&color=303f5a&height=200&section=header&text=Just do debug!!%20&fontSize=90&fontColor=ffffff" />
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=Soft&color=303f5a&height=200&section=header&text=Justdodebug!!&fontSize=90&fontColor=ffffff" />
+
 
 
 <!-- MYONGJI UNIVERSITY - Department of Convergence Software 👨🏼‍🎓-->
